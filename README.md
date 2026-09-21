@@ -1,3 +1,6 @@
+![Night Shift](./assets/night-shift.gif)
+
+
 # 💫 About Me:
 🎓 MCA Graduate passionate about Full Stack Development, Artificial Intelligence, and Software Development.<br>🔭 Currently seeking opportunities to begin my career in software development and contribute to real-world projects.<br>🌱 Currently improving my skills in Python development, full-stack web development, and building practical AI-based applications.<br>👯 Looking to collaborate on open-source projects and web development interfaces to gain hands-on experience.<br>💬 Ask me about Python, web development concepts, or my learning journey in AI and full-stack development.<br>⚡ Fun fact: I enjoy breaking down complex problems into simple logic and turning ideas into working code.
 
