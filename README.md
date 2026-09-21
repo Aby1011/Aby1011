@@ -1,4 +1,6 @@
-![Night Shift](./assets/night-shift.gif)
+<p align="center">
+  <img src="./night-shift%20%281%29.gif" alt="Night Shift">
+</p>
 
 
 # 💫 About Me:
