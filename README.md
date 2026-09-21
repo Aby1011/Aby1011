@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Room at dawn 1.gif" alt="Night Shift">
+  <img src="./night-shift(2).gif" alt="Night Shift">
 </p>
 
 
